@@ -1,3 +1,3 @@
 # PathFindingVisualizer
 
-This project is incompleted . complete project will be uploaded soon
+This project is incomplete . complete project will be uploaded soon
